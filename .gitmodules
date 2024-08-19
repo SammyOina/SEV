@@ -1,0 +1,3 @@
+[submodule "sev"]
+	path = sev
+	url = git@github.com:virtee/sev.git
